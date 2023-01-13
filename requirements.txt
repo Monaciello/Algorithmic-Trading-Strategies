@@ -263,7 +263,7 @@ pytz-deprecation-shim==0.1.0.post0
 pyvis==0.3.1
 pyviz-comms @ file:///home/conda/feedstock_root/build_artifacts/pyviz_comms_1661341338467/work
 PyWavelets @ file:///D:/bld/pywavelets_1649616556601/work
-pywin32==227
+pywin32==301
 pywin32-ctypes @ file:///D:/bld/pywin32-ctypes_1648607915107/work
 pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp37-none-win_amd64.whl
 PyYAML @ file:///D:/bld/pyyaml_1648757357341/work
