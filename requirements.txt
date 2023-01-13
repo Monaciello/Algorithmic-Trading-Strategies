@@ -97,7 +97,7 @@ gensim @ file:///D:/bld/gensim_1653483350245/work
 geopandas @ file:///tmp/build/80754af9/geopandas_1627401391374/work
 geoviews @ file:///home/conda/feedstock_root/build_artifacts/geoviews-core_1646773856131/work
 gitdb==4.0.10
-GitPython==3.1.29
+GitPython==3.1.30
 google-auth==2.15.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
